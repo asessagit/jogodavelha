@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+sudo chown -R $USER:$USER "$(pwd)" 2>/dev/null
 # simple wrapper for building and running the tic-tac-toe jar
 
 set -euo pipefail
