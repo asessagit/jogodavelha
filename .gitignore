@@ -32,3 +32,4 @@ mvnw.cmd
 # generated sources
 src/main/generated-sources/
 src/test/generated-sources/
+target/
