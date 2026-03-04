@@ -1,0 +1,13 @@
+com/exemplo/NetworkClient.class
+com/exemplo/Jogador.class
+com/exemplo/NetworkServer.class
+com/exemplo/Tabuleiro.class
+com/exemplo/JogadorRecebe.class
+com/exemplo/JogadorHumano.class
+com/exemplo/Historico.class
+com/exemplo/MinimaxAI.class
+com/exemplo/JogadorRandom.class
+com/exemplo/App.class
+com/exemplo/JogadorEnvio.class
+com/exemplo/Jogo.class
+com/exemplo/JogadorFixo.class
