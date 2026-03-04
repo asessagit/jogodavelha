@@ -1,1 +1,34 @@
-microsoft.gpg
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse/VSCode
+.settings/
+*.classpath
+*.project
+*.iml
+.vscode/
+
+# IDEA
+*.iws
+*.iml
+*.ipr
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+mvnw
+mvnw.cmd
+
+# temporary files
+*.tmp
+*~
+
+# generated sources
+src/main/generated-sources/
+src/test/generated-sources/
